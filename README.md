@@ -40,7 +40,7 @@ The chatbot follows an automated workflow:
 
 Explore the chatbot's functionality through a practical demonstration.
 
-**Demo video:** ![Watch Demo](demo/demo.mp4)
+**Demo video:** [Watch Demo](demo/demo.mp4)
 
 **Workflow overview:**
 
