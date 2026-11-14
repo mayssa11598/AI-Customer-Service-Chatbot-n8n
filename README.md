@@ -79,3 +79,5 @@ Developed as a personal project to explore practical applications of:
 - Vector databases and embeddings
 - AI agents and workflow automation
 - Conversational AI systems
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayssa-ahmed-12ab59339/)
